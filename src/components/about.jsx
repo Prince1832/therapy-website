@@ -69,7 +69,7 @@ const About = () => {
                 <div className="w-full md:w-1/2 md:self-start">
 
                     <Image
-                        src="/assets/dr.serena.webp"
+                        src="/assets/Dr.Serena.webp"
                         alt="Dr. Serena Blake"
                         width={500}
                         height={600}
