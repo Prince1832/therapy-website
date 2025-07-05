@@ -79,7 +79,7 @@ Designed with care using **Next.js 14** and **Tailwind CSS**, the project emphas
 
 
 ## Final Deliverables
-- Live Site: [https://therapy-website-opal.vercel.app/]
+- Live Site: [https://therapy-website-xi.vercel.app/]
 
 - GitHub Repo: [https://github.com/Prince1832/therapy-website]
 
