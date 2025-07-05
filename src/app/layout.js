@@ -1,6 +1,6 @@
 import "./globals.css";
 import Providers from "@/components/Providers";
-import ScrollToTopButton from "@/components/ScrollToTopButton";
+import ScrollToTopButton from "@/components/scrollToTopButton";
 
 export const metadata = {
   title: "Serena Wellness - Therapy Website",
