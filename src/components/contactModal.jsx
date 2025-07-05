@@ -28,7 +28,7 @@ const ContactModal = ({ isOpen, onClose }) => {
 
                 <div className="hidden md:block md:w-1/2">
                     <img
-                        src="./assets/contactform.webp"
+                        src="./assets/contactForm.webp"
                         alt="Therapist"
                         className="w-full h-full object-cover"
                     />

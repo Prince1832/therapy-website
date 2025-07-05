@@ -11,13 +11,13 @@ const services = [
         title: "Relationship Counseling",
         description:
             "Improve communication, rebuild trust, and strengthen emotional bonds. Whether you're dating, engaged, or married, sessions are tailored for your unique journey.",
-        image: "/assets/relationship-counseling.webp",
+        image: "/assets/Relationship-Counseling.webp",
     },
     {
         title: "Trauma Recovery",
         description:
             "Work through past trauma in a safe, supportive environment. Using evidence-based techniques, Dr. Blake helps you heal and regain emotional balance.",
-        image: "/assets/trauma-recovery.webp",
+        image: "/assets/Trauma-Recovery.webp",
     },
 ];
 
