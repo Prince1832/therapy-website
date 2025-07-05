@@ -1,6 +1,6 @@
 "use client";
 import { useEffect } from "react";
-import ContactForm from "./ContactForm";
+import ContactForm from "./contactForm";
 
 const ContactModal = ({ isOpen, onClose }) => {
     useEffect(() => {

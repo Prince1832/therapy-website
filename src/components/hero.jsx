@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import Image from "next/image";
-import ContactModal from "./ContactModal"; 
+import ContactModal from "./contactModal";
 
 const Hero = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -17,6 +17,7 @@ const Hero = () => {
           sizes="100vw"
           className="object-cover object-center"
         />
+
         <div className="absolute inset-0 bg-black/40 z-10" />
         <div className="relative z-20 flex flex-col justify-center items-center h-full text-center px-6">
           <h1 className="text-white text-5xl font-bold leading-tight max-w-4xl">
@@ -60,7 +61,7 @@ const Hero = () => {
         </button>
       </div>
 
-  
+
       <ContactModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} />
     </section>
   );
