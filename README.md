@@ -1,36 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Serena Wellness — Therapy Website
 
-## Getting Started
+A modern, responsive, and accessible website for a fictional therapist — **Dr. Serena Blake, PsyD**, built as part of the **Grow My Therapy Internship Assignment**.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This site mirrors the clean, minimalistic design of [drjenniferhahm.com](https://www.drjenniferhahm.com/) with a strong focus on:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Client trust-building
+- Easy navigation
+- Accessibility
+- Mobile-friendliness
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Designed with care using **Next.js 14** and **Tailwind CSS**, the project emphasizes elegant UI/UX patterns, smooth animations, and modern responsive layouts.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+ **Next.js 14**     ===     App Router-based structure               
+ **Tailwind CSS**   ===     Utility-first styling                                    
+ **Framer Motion**  ===     Page transitions & reveal animations  
+ **Vercel**         ===     Deployment platform                      
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+##  Sections Implemented
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 1. Hero Section
+- Fullscreen background
+- Headline & sub-headline
+- Prominent CTA button
+
+### 2. About Section
+- Introduction to Dr. Serena Blake
+- Bio, experience, and background
+
+### 3. Services
+- 3 specialties:
+  - Anxiety & Stress Management
+  - Relationship Counseling
+  - Trauma Recovery
+- Each with image + short description
+
+### 4. Session Fees
+- Styled, animated pricing block
+- Looks professional and minimal
+
+### 5. FAQ
+- Toggle/accordion component
+- Smooth transitions
+- 
+
+### 6. Contact
+- Fully functional contact form
+- Inline validation
+- Fields: Name, Email, Phone, Message, Preferred Time, Consent checkbox
+- Responsive modal on button click
+
+### 7. Map + Contact Overlay
+- Embedded Google Map
+- Floating form on large screens
+- Stacked form-only layout on mobile
+
+
+
+##  Features
+
+-  Accessible HTML + keyboard navigable
+-  Fully responsive (mobile-first)
+-  Custom animations on scroll
+-  Clean folder structure and semantic code
+-  Modal with blurred background
+-  Smooth scroll navigation to sections
+-  Therapist info is dynamically structured
+
+
+
+## Final Deliverables
+- Live Site: [https://therapy-website-opal.vercel.app/]
+
+- GitHub Repo: [https://github.com/Prince1832/therapy-website]
+
+- Demo Video: []

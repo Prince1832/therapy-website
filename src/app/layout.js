@@ -1,5 +1,6 @@
 import "./globals.css";
 import Providers from "@/components/Providers";
+import ScrollToTopButton from "@/components/ScrollToTopButton";
 
 export const metadata = {
   title: "Serena Wellness - Therapy Website",
@@ -10,6 +11,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <Providers>{children}</Providers>
+        <ScrollToTopButton />
       </body>
     </html>
   );
